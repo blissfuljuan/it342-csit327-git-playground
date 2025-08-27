@@ -158,7 +158,3 @@ git fetch origin && git merge origin/main
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Menez, John Joshua (**@Josh20003**)
-
-
-
-
