@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G7
+- Favorite Language: Java, Javascript, Python
+- One Git Tip Learned: Learn to ammend commits
+- GitHub: @ichi338
