@@ -154,4 +154,5 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
+- Bramwell, Earion Icer(**@EarionIcer**)
 - Revilleza, Frederick (**@blissfuljuan**)
