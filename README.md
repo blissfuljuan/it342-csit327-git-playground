@@ -153,5 +153,6 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Sia, David Ryan (**@davidryu13**)
+- _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
+- Sia, David Ryan (**@davidryu13**)
