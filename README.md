@@ -144,7 +144,7 @@ git fetch origin && git merge origin/main
 
 ---
 
-## Troubleshooting
+## Troubleshooting\
 - **Permission denied on push:** You’re pushing to the class repo. Ensure `origin` points to **your fork**.
 - **Checks failing (branch name):** Rename branch to start with your **GitHub username**.
 - **Checks failing (username missing):** Ensure `@your-username` appears in both **README (Contributors)** and your **bio** file.
@@ -155,3 +155,4 @@ git fetch origin && git merge origin/main
 ## Contributors
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
+- Laputan, Sigrid Allison S. (**@ichi338**)
