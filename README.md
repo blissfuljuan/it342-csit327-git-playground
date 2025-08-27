@@ -25,10 +25,11 @@ You will **fork** this repo, work on a **feature branch**, and open a **Pull Req
 
 ## Prerequisites
 - Git installed; GitHub account
+- Perform Task A
 - Configure your identity (once):
   ```bash
-  git config --global user.name  "Your Name"
-  git config --global user.email "your_email@example.com"
+  git config --local user.name  "Your Name"
+  git config --local user.email "your_email@example.com"
   ```
 
 ---
@@ -152,5 +153,10 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
+ Dannnn-coder/feature-readme
 - Garcia, DanielLuis (**@Dannnn-coder**)
-- @blissfuljuan
+- danlugarcia221@gmail.com
+=======
+- _Add your name here in Task C_
+- Revilleza, Frederick (**@blissfuljuan**)
+ main
