@@ -154,4 +154,4 @@ git fetch origin && git merge origin/main
 ## Contributors
 - _Add your name here in Task C_
 - @blissfuljuan
-- Soldano Serge Ylan (**YlanDainne**)
+- Soldano, Serge Ylan M. (**YlanDainne**)
