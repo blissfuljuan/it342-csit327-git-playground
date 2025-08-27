@@ -152,5 +152,5 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Magdales, James Andrew(**S4ksy**)
+- Magdales, James Andrew J. (**S4ksy**)
 - @blissfuljuan
