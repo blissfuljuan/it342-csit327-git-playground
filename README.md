@@ -152,6 +152,5 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- _Add your name here in Task C_
-- @blissfuljuan
 - Alerta, Vince Raymund J.(@CosmicSavant001)
+- @blissfuljuan
