@@ -1,0 +1,4 @@
+- Year/Section: 3rd yr / G7
+- Favorite Language: c#
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @Nagazta
