@@ -1,0 +1,4 @@
+- Year/Section: e.g., 3rd Year / G7
+- Favorite Language: e.g., Java, C
+- One Git Tip Learned: Use git log --oneline to see a compact, easy-to-read summary of your commit history.
+- GitHub: @M0BIUS1
