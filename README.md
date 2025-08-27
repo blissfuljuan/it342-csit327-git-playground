@@ -152,5 +152,5 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- _Add your name here in Task C_
-- @blissfuljuan
+- Relacion, Reden Misael (**Relacion22)
+- @Relacion22
