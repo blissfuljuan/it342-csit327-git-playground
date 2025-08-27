@@ -131,7 +131,7 @@ Include an **issue number** in at least one commit: `(#1)` or `(#2)`.
 ---
 
 ## Cheatsheet
-```bash
+- 
 git status
 git log --oneline --graph --decorate
 git switch -c <branch>        # create/switch branch
@@ -154,3 +154,4 @@ git fetch origin && git merge origin/main
 ## Contributors
 - _Add your name here in Task C_
 - @blissfuljuan
+- Polancos, Mizzie
