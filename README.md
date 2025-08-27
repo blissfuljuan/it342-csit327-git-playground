@@ -152,5 +152,5 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Ashley Igonia
-- @ayeee143
+- Igonia, Ashley (**@ayeee143**)
+- @blissfuljuan
