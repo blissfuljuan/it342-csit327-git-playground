@@ -1,4 +1,4 @@
-- 3rd Year/Section: G7
-- Java
-- One Git Tip Learned: 'git add'
+- Year/Section: 3rd Year / G7
+- Favorite Language: Java
+- One Git Tip Learned:  Use `git switch` often
 - GitHub: @niccomalds
