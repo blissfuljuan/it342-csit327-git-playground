@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G07
+- Favorite Language: Java
+- One Git Tip Learned: Know the basics of 'git push' and 'git commit'
+- GitHub: @DeonHolo
