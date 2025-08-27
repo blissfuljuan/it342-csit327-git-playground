@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G07
+- Favorite Language: HTML
+- One Git Tip Learned: Use `git commit` often
+- GitHub: @harveyrodchristian
