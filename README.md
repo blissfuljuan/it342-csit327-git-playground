@@ -153,5 +153,10 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
+
+- Sarsonas, Kervin Gino (**@Desiigner101**)
+- @blissfuljuan
+
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
+
