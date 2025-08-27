@@ -155,4 +155,6 @@ git fetch origin && git merge origin/main
 ## Contributors
 - Add your name here in Task C
 - Revilleza, Frederick (**@blissfuljuan**)
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Acebedo, Lord Anthone (**@Tonn2124**)
