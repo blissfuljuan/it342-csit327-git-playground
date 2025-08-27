@@ -1,0 +1,4 @@
+- Year/Section: e.g., 3rd Year / G7
+- Favorite Language: e.g., Java
+- One Git Tip Learned: e.g., Use `git remote -v` to check what repository u are working on
+- GitHub: @Freezeh11
