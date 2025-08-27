@@ -153,5 +153,5 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
-- Astly, Vince (**@VinceAstly**)
+- Cabungcag, Vince (**@VinceAstly**)
 - @blissfuljuan
