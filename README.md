@@ -153,5 +153,5 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- _Add your name here in Task C_
+- Alicaba, Kenneth (**@Ken2218**)
 - Revilleza, Frederick (**@blissfuljuan**)
