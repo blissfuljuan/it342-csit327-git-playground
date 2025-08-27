@@ -153,5 +153,10 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
+
+- Sabornido, Xavier John (**@xaviersabornido**)
+- @blissfuljuan
+=======
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
+
