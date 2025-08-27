@@ -152,5 +152,4 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Nikolai Javier Jr.
-- @Sonicguy14
+- Javier, Nikolai (@Sonicguy14)
