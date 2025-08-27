@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G07
+- Favorite Language: Java
+- One Git Tip Learned: Use 'git status' often to check what has changed and what is ready to commit.
+- GitHub: @HomCode
