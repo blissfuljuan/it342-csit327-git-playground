@@ -155,4 +155,11 @@ git fetch origin && git merge origin/main
 ## Contributors
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
+<<<<<<< HEAD
 - Morales, Dilton Rowan (**@DeffyBoid**)
+=======
+- Morales, Dilton Rowan (**@DeffyBoid**)
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+
+>>>>>>> 9e440254de14a2f67fe472af6e0814c2908a9f20
