@@ -48,7 +48,7 @@ You will **fork** this repo, work on a **feature branch**, and open a **Pull Req
    ```bash
    git remote add upstream <URL-of-class-repo>
    ```
-
+ 
 ### B) Create a branch (must start with your GitHub username)
 ```bash
 git switch -c <your-username>/feature-readme
@@ -154,4 +154,9 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
+ main
+- Cardoso, Edrian Karl (**@OwlFreddy**)
+- @blissfuljuan
+=======
 - Revilleza, Frederick (**@blissfuljuan**)
+ main
