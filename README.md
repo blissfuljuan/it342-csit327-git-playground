@@ -153,4 +153,4 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - Hernandez, Adrian (**@Heyyyoo**)
-- @blissfuljuan
+- Revilleza, Frederick (**@blissfuljuan**)
