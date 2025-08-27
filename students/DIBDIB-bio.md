@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G7
+- Favorite Language: Kotlin and Java
+- One Git Tip Learned: dont forget to push
+- GitHub: @igoirshiy
