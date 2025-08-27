@@ -1,0 +1,4 @@
+- 3rd Year/Section: G7
+- Java
+- One Git Tip Learned: 'git add'
+- GitHub: @niccomalds
