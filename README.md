@@ -152,5 +152,5 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Sarsonas, Kervin Gino
-- @Desiigner101
+- Sarsonas, Kervin Gino (**@Desiigner101**)
+- @blissfuljuan
