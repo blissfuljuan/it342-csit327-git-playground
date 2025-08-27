@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G8
+- Favorite Language: C, Java
+- One Git Tip Learned: GIT Commit
+- GitHub: @KelvinChadObejero220
