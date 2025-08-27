@@ -1,0 +1,4 @@
+- Year/Section: 3rd year / g7
+- Favorite Language:Java, C
+- One Git Tip Learned: Show the contents of any stash in patch form
+- GitHub: @MartRup
