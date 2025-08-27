@@ -1,0 +1,4 @@
+- Year/Section:3rd Year / G7
+- Favorite Language: C
+- One Git Tip Learned: `Write clear commit messages` often
+- GitHub: @Prince-jpeg
