@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G07
+- Favorite Language: Java
+- One Git Tip Learned: Study first
+- GitHub: @christian1202
