@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G07
+- Favorite Language: Java
+- One Git Tip Learned: Use `git status` often
+- GitHub: @JasCiely
