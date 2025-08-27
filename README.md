@@ -153,5 +153,6 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Taghoy, Ron Luigi (**@DeonHolo**)
+- _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
+- Taghoy, Ron Luigi (**@DeonHolo**)
