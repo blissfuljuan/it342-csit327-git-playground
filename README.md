@@ -153,6 +153,10 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
+
+- Igonia, Ashley (**@ayeee143**)
+- @blissfuljuan
+
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
 - Montejo, Primo Christian (**@primzcm**)
