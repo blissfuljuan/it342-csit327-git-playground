@@ -157,3 +157,5 @@ git fetch origin && git merge origin/main
 - @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
 - Louis Drey Castañeto (@zzephyrr-louis)
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
