@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G8
+- Favorite Language: Kotlin
+- One Git Tip Learned: Make git commit messages more often.
+- GitHub: @titit31
