@@ -1,0 +1,4 @@
+- Year/Section: e.g., 3rd Year / G7
+- Favorite Language: e.g., Kotlin
+- One Git Tip Learned: e.g., Use `git -u origin` can only declare once since it relate to the local branch to remote branch
+- GitHub: @sipjems13
