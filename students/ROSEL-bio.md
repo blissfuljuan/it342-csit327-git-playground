@@ -1,4 +1,4 @@
-- Year/Section: e.g., 4th Year / G7
+- Year/Section: e.g., 4th Year / G7 
 - Favorite Language: e.g., Java
 - One Git Tip Learned: e.g., Use `git status` often
 - GitHub: @patetetet
