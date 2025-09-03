@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G7
+- Favorite Language: Java
+- One Git Tip Learned: I can navigate branch like `git checkout HEAD~^2~`
+- GitHub: @DeffyBoid
