@@ -156,7 +156,8 @@ git fetch origin && git merge origin/main
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- Inoc, Nicole John (**@NJInoc**)
 - Montejo, Primo Christian (**@primzcm**)
 - Pancito, Christian Harry R.(**@seeudev**)
 - Ortega, Khryzia (**@TheLaughingFrog**)
+- Inoc, Nicole John (**@NJInoc**)
+
