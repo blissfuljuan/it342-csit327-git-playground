@@ -154,11 +154,8 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
-- @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
-- anirak411/feature-readme
-=======
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- Najarro, Monica A. (anirak411)
-
+- Pancito, Christian Harry R.(**@seeudev**)
+- Najarro, Monica A. (**anirak411**)
