@@ -158,4 +158,5 @@ git fetch origin && git merge origin/main
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Pancito, Christian Harry R.(**@seeudev**)
-- Reroma, Christy Roan (**@christyroannreroma**)
+- Ortega, Khryzia (**@TheLaughingFrog**)
+- - Reroma, Christy Roan (**@christyroannreroma**)
