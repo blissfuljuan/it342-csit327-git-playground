@@ -158,4 +158,3 @@ git fetch origin && git merge origin/main
 - Tabanas, Prince Daniel (**@prince-jpeg**)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-
