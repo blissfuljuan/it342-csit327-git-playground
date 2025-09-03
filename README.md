@@ -154,9 +154,9 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
- main
-- Cardoso, Edrian Karl (**@OwlFreddy**)
-- @blissfuljuan
-=======
 - Revilleza, Frederick (**@blissfuljuan**)
- main
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Pancito, Christian Harry R.(**@seeudev**)
+- Ortega, Khryzia (**@TheLaughingFrog**)
+- Cardoso, Edrian Karl (**@OwlFreddy**)
