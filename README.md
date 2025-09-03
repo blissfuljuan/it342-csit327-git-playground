@@ -158,3 +158,5 @@ git fetch origin && git merge origin/main
 - Palicte, Jasmine Ciely (**@JasCiely**)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Pancito, Christian Harry R.(**@seeudev**)
+- Ortega, Khryzia (**@TheLaughingFrog**)
