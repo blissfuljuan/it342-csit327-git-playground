@@ -159,3 +159,5 @@ git fetch origin && git merge origin/main
 - Louis Drey Castañeto (@zzephyrr-louis)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Pancito, Christian Harry R.(**@seeudev**)
