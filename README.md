@@ -154,13 +154,9 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
-<<<<<<< HEAD
-- @blissfuljuan
-- Polancos, Mizzie
-=======
 - Revilleza, Frederick (**@blissfuljuan**)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Pancito, Christian Harry R.(**@seeudev**)
 - Ortega, Khryzia (**@TheLaughingFrog**)
->>>>>>> 7cee6938c3f9d02f1ac565c2c095926ac8acec9d
+- Polancos, Mizzie (**@rubyjinx3-sudo**)
