@@ -1,0 +1,4 @@
+- Year/Section: 4th Year / G8
+- Favorite Language:  java
+- One Git Tip Learned: Use `git status` often
+- GitHub: @zydneybelia
