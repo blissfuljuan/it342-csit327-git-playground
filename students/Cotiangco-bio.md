@@ -1,4 +1,4 @@
 - Year/Section:3rd Year / G7
 - Favorite Language: Java
 - One Git Tip Learned: Don't Give up
-- GitHub: @Jamesgab2
+- GitHub: @Jamesgab29
