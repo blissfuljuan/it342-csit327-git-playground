@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G08
+- Favorite Language: C
+- One Git Tip Learned: reading comprehension
+- GitHub: @G-A-V-Es
