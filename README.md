@@ -155,4 +155,6 @@ git fetch origin && git merge origin/main
 ## Contributors
 - @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Portes, Ed Lawrenz (**@martyrslent**)
