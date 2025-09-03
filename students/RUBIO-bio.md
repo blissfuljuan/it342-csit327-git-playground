@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G8
+- Favorite Language: Java, C
+- One Git Tip Learned: Use git status before doing anything substantial
+- GitHub: @rubiojademm
