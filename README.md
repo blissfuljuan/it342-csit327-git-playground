@@ -153,6 +153,8 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- Habon, MichelleMarie (**@chimmymikel**)
 - Revilleza, Frederick (**@blissfuljuan**)
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Habon, MichelleMarie (**@chimmymikel**)
 
