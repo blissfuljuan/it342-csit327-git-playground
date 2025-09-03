@@ -1,4 +1,0 @@
-- Year/Section:3rd Year / G8
-- Favorite Language: Java
-- One Git Tip Learned: Use `git remote -v` to check origin
-- GitHub: @TheMetalPipe
