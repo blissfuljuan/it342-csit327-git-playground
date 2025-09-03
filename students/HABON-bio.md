@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G08
+- Favorite Language: Python
+- One Git Tip Learned: Use `git status` often
+- GitHub: @chimmymikel
