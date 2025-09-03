@@ -158,3 +158,5 @@ git fetch origin && git merge origin/main
 - Monreal , Justin (**@Real-mon**)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Pancito, Christian Harry R.(**@seeudev**)
+- Ortega, Khryzia (**@TheLaughingFrog**)
