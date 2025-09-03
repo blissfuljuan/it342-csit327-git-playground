@@ -154,10 +154,12 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
-- @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
 -KelvinChadObejero220/feature-readme
 =======
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- -Obejero, Kelvin Chad(**KelvinChadObejero220**)
+- KelvinChadObejero220/feature-readme
+=======
+- Pancito, Christian Harry R.(**@seeudev**)
+- Obejero, Kelvin Chad(**KelvinChadObejero220**)
