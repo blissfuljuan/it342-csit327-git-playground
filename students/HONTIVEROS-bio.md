@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G08
+- Favorite Language: Java
+- One Git Tip Learned: eUse `git status` often
+- GitHub: @G-A-V-E
