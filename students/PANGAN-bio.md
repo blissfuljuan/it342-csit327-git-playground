@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year, G08
+- Favorite Language: Java, Python
+- One Git Tip Learned: git status
+- GitHub: @ArnnonZevv
