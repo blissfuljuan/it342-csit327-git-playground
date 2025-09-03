@@ -154,9 +154,9 @@ git fetch origin && git merge origin/main
 
 ## Contributors
  Dannnn-coder/feature-readme
-- Garcia, DanielLuis (**@Dannnn-coder**)
 - danlugarcia221@gmail.com
-=======
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
- main
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Garcia, Daniel Luis P. (**@Dannnn-coder**)
