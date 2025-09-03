@@ -153,8 +153,8 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
-- - Montejo, Primo Christian (**@primzcm**)
+- Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- - Poliquit, Keint Warren (**@KeintWarren**)
+- Pancito, Christian Harry R.(**@seeudev**)
+- Poliquit, Keint Warren (**@KeintWarren**)
