@@ -154,8 +154,10 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
-- Revilleza, Frederick (**@blissfuljuan**)\
+- Revilleza, Frederick (**@blissfuljuan**)
 - Revilleza, Frederick (**@blissfuljuan**)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- Valmera, Harvey Rod Christian L. (**@harveyrodchristian**)\
+- Pancito, Christian Harry R.(**@seeudev**)
+- Ortega, Khryzia (**@TheLaughingFrog**)
+- Valmera, Harvey Rod Christian L. (**@harveyrodchristian**)
