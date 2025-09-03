@@ -159,4 +159,4 @@ git fetch origin && git merge origin/main
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Pancito, Christian Harry R.(**@seeudev**)
 - Ortega, Khryzia (**@TheLaughingFrog**)
-- Najarro, Monica A. (**anirak411**)
+- Najarro, Monica A. (**@anirak411**)
