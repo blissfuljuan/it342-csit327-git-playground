@@ -1,4 +1,4 @@
-- Year/Section: 3rd Year / G8
+- Year/Section: 3rd Year / G08
 - Favorite Language: JavaScript, Java
 - One Git Tip Learned: Use `git status` often
 - GitHub: @Kenzoiii
