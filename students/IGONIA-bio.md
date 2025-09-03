@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G8
+- Favorite Language: Java
+- One Git Tip Learned: Using git status often
+- GitHub: @ayeee143
