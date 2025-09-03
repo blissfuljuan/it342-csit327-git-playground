@@ -153,7 +153,8 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-- _Add your name here in Task C_
 - @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
-- Unabia, Frances Lghe (**@FrancesLgheUnabia**)
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Unabia, Frances Lghe P. (**@FrancesLgheUnabia**)
