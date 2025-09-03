@@ -1,0 +1,4 @@
+- Year/Section: e.g., 3rd Year / G7
+- Favorite Language: Java, Javascript, Python
+- One Git Tip Learned: Always check the branch you're working on before push/ commit
+- GitHub: @ichi338
