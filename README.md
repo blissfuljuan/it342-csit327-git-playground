@@ -161,5 +161,10 @@ git fetch origin && git merge origin/main
 - Morales, Dilton Rowan (**@DeffyBoid**)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+<<<<<<< HEAD
 
 >>>>>>> 9e440254de14a2f67fe472af6e0814c2908a9f20
+=======
+- Pancito, Christian Harry R.(**@seeudev**)
+- Ortega, Khryzia (**@TheLaughingFrog**)
+>>>>>>> main
