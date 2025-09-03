@@ -163,4 +163,5 @@ main
 =======
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- Cabungcag, Vince (**@VinceAstly**)
+- Pancito, Christian Harry R.(**@seeudev**)
+- Ortega, Khryzia (**@TheLaughingFrog**)- Cabungcag, Vince (**@VinceAstly**)
