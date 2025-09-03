@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G7
+- Favorite Language: Java
+- One Git Tip Learned: merge and conquer
+- GitHub: @letjungcook11
