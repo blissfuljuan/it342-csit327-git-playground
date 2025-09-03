@@ -58,7 +58,7 @@ Example: `ericrev/feature-readme`
 ### C) Improve README (Issue #1)
 Add **your real name + @username** under **Contributors** (see section at the bottom):
 ```
-- Lastname, Firstname (**@your-github-username**)
+- Magdales, James Andrew (**@S4ksy**)
 ```
 Example:
 ```
@@ -159,3 +159,4 @@ git fetch origin && git merge origin/main
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Pancito, Christian Harry R.(**@seeudev**)
 - Ortega, Khryzia (**@TheLaughingFrog**)
+- Magdales, James Andrew J. (**S4ksy**)
