@@ -156,8 +156,7 @@ git fetch origin && git merge origin/main
 - _Add your name here in Task C_
 - @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
-- Louis Drey Castañeto (@zzephyrr-louis)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Pancito, Christian Harry R.(**@seeudev**)
+- Louis Drey Castañeto (@zzephyrr-louis)
