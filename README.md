@@ -153,9 +153,9 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-
-- Maluto, John Lloyd (**@skweks**)
 - @blissfuljuan
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
-
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Maluto, John Lloyd (**@skweks**)
