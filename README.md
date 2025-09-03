@@ -156,3 +156,8 @@ git fetch origin && git merge origin/main
 
 - Javier, Nikolai (@Sonicguy14)
 
+- _Add your name here in Task C_
+- Revilleza, Frederick (**@blissfuljuan**)
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+
