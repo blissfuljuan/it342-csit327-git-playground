@@ -157,7 +157,6 @@ git fetch origin && git merge origin/main
 - Revilleza, Frederick (**@blissfuljuan**)
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
-- Belia, Jhon Zydney T.(**@zydneybelia**)
-=======
 - Pancito, Christian Harry R.(**@seeudev**)
 - Ortega, Khryzia (**@TheLaughingFrog**)
+- Belia, Jhon Zydney T.(**@zydneybelia**)
