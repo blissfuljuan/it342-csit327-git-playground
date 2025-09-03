@@ -154,10 +154,9 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 - _Add your name here in Task C_
-- @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
-- anaclaireellen/feature-readme
-=======
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Pancito, Christian Harry R.(**@seeudev**)
 - Naranjo, Ana Claire Ellen (**@anaclaireellen**)
+
