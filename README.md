@@ -157,5 +157,5 @@ git fetch origin && git merge origin/main
 - Revilleza, Frederick (**@blissfuljuan**)
 - Ruperez, Raymart(**@MartRup**)
 - Montejo, Primo Christian (**@primzcm**)
-- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**) 
 
