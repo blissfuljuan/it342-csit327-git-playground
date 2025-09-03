@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G7
+- Favorite Language:Java, C
+- One Git Tip Learned: Use git stash to temporarily save your changes without committing, so you can switch branches cleanly!
+- GitHub: @M0BIUS1
