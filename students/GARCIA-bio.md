@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G8
+- Favorite Language: Java
+- One Git Tip Learned: Dont forget to pull or merge before pushing
+- GitHub: @Dannnn-coder
